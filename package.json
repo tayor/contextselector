@@ -1,5 +1,5 @@
 {
-  "name": "contextselector",
+  "name": "@tayor/contextselector",
   "version": "0.1.0",
   "description": "Launch a local web UI to explore codebases, curate context, and send selected files to Gemini from npx or a global npm install.",
   "author": "tayor",
